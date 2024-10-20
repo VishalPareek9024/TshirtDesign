@@ -9,6 +9,7 @@ img{
     width: 100%;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .hero .tshirtbox > img{
