@@ -13,6 +13,10 @@ img{
     align-items: center;
 }
 
+.hero>div,.hero .tshirtbox{
+    padding: 30px;
+}
+
 .hero .tshirtbox > img{
     width: 350px;
     height: 350px;
