@@ -7,9 +7,10 @@ img{
     height: 600px;
     padding: 100px;
     width: 100%;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
 }
 
 .hero .tshirtbox > img{
@@ -66,7 +67,7 @@ img{
 
   @media screen and (max-width:700px){
     .hero{
-        flex-direction: column;
+        grid-template-columns: 1fr;
     }
 
     .hero h2{

@@ -41,7 +41,7 @@ const Hero = () => {
 
 
     return <>
-        <div className="hero flex">
+        <div className="hero">
             <div>
                 <h2>Upload Image and  try it on Tshirt</h2>
                 <div className="btnbox">
