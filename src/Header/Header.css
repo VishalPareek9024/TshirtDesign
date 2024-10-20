@@ -39,3 +39,12 @@ nav ul li a:hover{
     background-color: white;
     color: black;
 }
+
+@media screen and (max-width:700px){
+
+    nav ul li a{
+        color: white;
+        padding: 8px 10px;
+        font-size: 15px;
+    }
+}
