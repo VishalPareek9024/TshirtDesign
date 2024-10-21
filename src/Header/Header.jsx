@@ -7,7 +7,7 @@ const Header = ()=>{
                 <li><a href="#">VishalPrintings</a></li>
                 <li><a href="#">Our Products</a></li>
                 <li><a href="#">Place an Order</a></li>
-                <li><a href="#">More</a></li>
+                
             </ul>
         </nav>
     </>
